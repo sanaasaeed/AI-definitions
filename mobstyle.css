@@ -6,3 +6,7 @@
 h1 {
   font-size: 1.3rem;
 }
+
+.root {
+  margin: 0;
+}
